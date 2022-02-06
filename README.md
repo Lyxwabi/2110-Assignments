@@ -1,6 +1,6 @@
 # 2110-Assignments
 
-# Last updated on Jan 30, 2022
+# Last updated on Feb 6, 2022
 
 ## Assignment 1
 Pseudocode for Assignment 1 updated
